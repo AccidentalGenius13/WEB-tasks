@@ -1,3 +1,22 @@
 h1.h_1 {
     color: red
 }
+
+
+form.login_form {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 450px;
+    background-color: #ffdab9;
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+h2.anketa_header_1 {
+    text-align: center
+}
+
+h4.anketa_header_2 {
+    text-align: center
+}

@@ -28,11 +28,11 @@ def promotion():
                             <h1 class="h_1">Жди нас, Марс!</h1>
                             <img src="{url_for('static', filename='img/mars.png')}" 
                             alt="здесь должна была быть картинка, но не нашлась">
-                            <p class="p-3 mb-2 bg-light text-dark">Человечество вырастает из детства.</p>
-                            <p class="p-3 mb-2 bg-success-subtle text-success-emphasis">Человечеству мала одна планета.</p>
-                            <p class="p-3 mb-2 bg-body-secondary">Мы сделаем обитаемыми безжизненные пока планеты.</p>
-                            <p class="p-3 mb-2 bg-warning-subtle text-warning-emphasis">И начнем с Марса!</p>
-                            <p class="p-3 mb-2 bg-danger-subtle text-danger-emphasis">Присоединяйся!</p>
+                            <div class="p-3 mb-2 bg-light text-dark">Человечество вырастает из детства.</div>
+                            <div class="p-3 mb-2 bg-success-subtle text-success-emphasis">Человечеству мала одна планета.</div>
+                            <div class="p-3 mb-2 bg-body-secondary">Мы сделаем обитаемыми безжизненные пока планеты.</div>
+                            <div class="p-3 mb-2 bg-warning-subtle text-warning-emphasis">И начнем с Марса!</div>
+                            <div class="p-3 mb-2 bg-danger-subtle text-danger-emphasis">Присоединяйся!</div>
                           </body>
                         </html>'''
 
